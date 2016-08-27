@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1,NZ TV 1
+http://livestream.etv.org.nz/tv1.m3u8
+
+#EXTINF:-1,NZ TV 2
+http://livestream.etv.org.nz/tv2.m3u8
+
+#EXTINF:-1,NZ TV 3
+http://livestream.etv.org.nz/tv3.m3u8
+
+#EXTINF:-1,Bravo NZ
+http://livestream.etv.org.nz/four.m3u8
+
+#EXTINF:-1,NZ Channel North
+http://livestream.etv.org.nz/channelnorth.m3u8
+
+#EXTINF:-1,NZ Choice TV
+http://livestream.etv.org.nz/choicetv.m3u8
+
+#EXTINF:-1,NZ Chinese TV8
+http://livestream.etv.org.nz/chinesetv.m3u8
+
+#EXTINF:-1,NZ DUKE
+https://tvnzioslive01-i.akamaihd.net/hls/live/245926/tvnzhlsingest/Duke/playlist.m3u8
+
+#EXTINF:-1,NZ Maori TV
+http://livestream.etv.org.nz/maori.m3u8
+
+#EXTINF:-1,NZ Parliament TV
+http://livestream.etv.org.nz/parliamenttv.m3u8
+
+#EXTINF:-1,NZ Prime TV
+http://livestream.etv.org.nz/prime.m3u8
+
+#EXTINF:-1,NZ Te Reo
+http://livestream.etv.org.nz/tereo.m3u8
+
+#EXTINF:-1,NZ TV33
+http://livestream.etv.org.nz/tv33.m3u
+
+#EXTINF:-1,NZ Al Jazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:-1,NZ Apna TV
+http://livestream.etv.org.nz/apnatv.m3u8
+
+#EXTINF:-1,NZ CTV
+http://scc-cdn.5stream.com/stream/stream_high/index.m3u8
+
